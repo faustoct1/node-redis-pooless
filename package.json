@@ -1,0 +1,10 @@
+{
+  "name": "node-redis-pooless",
+  "version": "1.0.0",
+  "description": "Redis pool less is a wrapper in redis client to handle connections in serverless and stateless environment. Servers running in stateless env such as google cloud functions, aws, serverless and kind of servers, can have this wrapper to open/close connection in a controlled env.",
+  "main": "index.js",
+  "repository": "https://github.com/vibyapp/node-redis-pooless",
+  "author": "fausto",
+  "license": "Apache License 2.0",
+  "private": null
+}
