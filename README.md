@@ -1,4 +1,4 @@
-# redis-pooless
+# node-redis-pooless
 Redis pool less is a wrapper in redis client to handle connections in serverless and stateless environment. Servers running in stateless env such as google cloud functions, aws, serverless and kind of servers, can have this wrapper to open/close connection in a controlled env. 
 
 # Important
